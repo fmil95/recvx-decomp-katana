@@ -11,12 +11,12 @@
 extern "C" {
 #endif 
 #include <sg_xpt.h>
-#include <NinjaDef.h>
-#include <NinjaStr.h>
-#include <NinjaCnk.h>
-#include <NinjaVal.h>
-#include <NinjaApi.h>
-#include <NinjaPtcl.h>
+#include <ninjadef.h>
+#include <ninjastr.h>
+#include <ninjacnk.h>
+#include <ninjaval.h>
+#include <ninjaapi.h>
+#include <ninjaptcl.h>
 #ifdef __cplusplus
 }
 #endif
@@ -26,6 +26,6 @@ extern "C" {
 #include <stdlib.h>
 #include <mathf.h>
 #include <math.h>
-#include <NinjaPad.h>
+#include <ninjapad.h>
 
 #endif
